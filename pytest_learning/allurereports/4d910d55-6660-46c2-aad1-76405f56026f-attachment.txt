@@ -1,0 +1,4 @@
+opening browser
+executing user registration
+closing browser
+closing db connection

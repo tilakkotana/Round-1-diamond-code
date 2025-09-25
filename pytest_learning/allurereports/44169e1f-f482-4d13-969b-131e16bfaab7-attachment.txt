@@ -1,0 +1,2 @@
+executing user registration
+closing browser
